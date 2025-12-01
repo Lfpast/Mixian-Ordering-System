@@ -1,0 +1,100 @@
+57342788,32.4478,7,Hot and Numbing Soup,3,mushroom,bread,garlic,1
+42788953,66.0943,3,Tomato Soup,4,butter,olive oil,onion,tea,0
+99518645,13.2613,4,Unknown,3,candy,gin,sugar,1
+21074678,78.857,8,Hot and Numbing Soup,1,vinegar,0
+48682866,24.7802,8,Unknown,4,soy sauce,chicken,juice,beer,1
+72486604,93.8374,0,Clear Soup,4,water,onion,gin,cookie,1
+52411224,48.5597,6,Veggie Soup,4,ginger,cocktail,coffee,wine,0
+86140247,7.56623,0,Veggie Soup,1,cookie,0
+44498203,70.8037,0,Hot and Numbing Soup,2,yogurt,vegetable,1
+84802562,60.6166,5,Tomato Soup,4,wine,butter,soy sauce,beef,0
+59139215,67.5357,2,Tomato Soup,4,ice cream,tea,soy sauce,butter,1
+54518656,12.0421,0,Pepper and Spicy Soup,1,mocktail,0
+67022279,71.6099,3,Hot and Numbing Soup,3,cheese,chili,mocktail,1
+53153136,4.82964,0,Unknown,3,vinegar,cheese,soda,0
+61716429,46.3317,0,Shasha Soup,3,vodka,olive oil,chocolate,1
+15475911,94.8474,10,Shasha Soup,3,olive oil,pork,coffee,1
+10226332,64.9857,7,Veggie Soup,1,peanut oil,1
+9519320,96.827,1,Tomato Soup,2,candy,ice cream,1
+69058625,7.64905,5,Tomato Soup,3,gin,garlic,rice,1
+90025587,43.9051,4,Hot and Numbing Soup,3,liqueur,soda,beef,1
+39177244,67.4495,4,Hot and Numbing Soup,4,soy sauce,onion,vodka,soda,0
+2070376,58.5515,10,Tomato Soup,3,chili,liqueur,peanut oil,1
+72932627,14.6211,3,Hot and Sour Soup,4,cake,chicken,candy,corn oil,1
+12298970,17.2304,6,Clear Soup,4,beef,soy sauce,beer,olive oil,1
+30541332,47.4834,1,Veggie Soup,3,garlic,garlic,pork,1
+39475958,3.81331,4,Shasha Soup,2,coffee,vodka,1
+19962532,62.9574,7,Tomato Soup,3,vinegar,yogurt,vodka,0
+47773297,33.3599,2,Veggie Soup,2,coffee,cookie,0
+20878217,44.882,6,Hot and Sour Soup,4,gin,vinegar,ginger,tea,0
+30057876,99.5672,4,Shasha Soup,4,vegetable,salt,soy sauce,sesame oil,1
+10158443,70.7401,0,Shasha Soup,4,pork,brandy,tequila,mushroom,1
+36498411,55.0659,5,Shasha Soup,4,vegetable,egg,milk,bread,1
+59436609,73.9199,7,Clear Soup,1,chocolate,0
+74211501,86.9193,8,Hot and Numbing Soup,1,soda,0
+39469425,16.5263,5,Shasha Soup,1,chocolate,0
+50436432,12.3655,7,Veggie Soup,2,corn oil,gin,1
+1016781,6.30865,7,Clear Soup,1,soy sauce,0
+5671719,55.8799,2,Veggie Soup,2,yogurt,rum,1
+89981719,4.9282,7,Hot and Sour Soup,2,rice,beer,1
+10458787,17.2445,9,Tomato Soup,4,tequila,bread,vodka,cookie,0
+60687528,47.3187,2,Shasha Soup,3,pepper,milk,liqueur,0
+94278209,74.6162,10,Shasha Soup,3,tea,ginger,soy sauce,0
+56056169,66.8775,4,Hot and Sour Soup,3,cookie,olive oil,mushroom,0
+89924093,90.2087,8,Pepper and Spicy Soup,4,ice cream,tofu,peanut oil,cocktail,0
+95625590,86.5631,3,Veggie Soup,1,corn oil,1
+21808271,71.1852,4,Unknown,1,chocolate,0
+41535781,23.0257,7,Pepper and Spicy Soup,4,chicken,pork,mushroom,whiskey,1
+10687042,55.9014,5,Hot and Sour Soup,1,coffee,1
+96472829,3.7628,10,Shasha Soup,3,corn oil,chocolate,ginger,0
+25634137,42.0515,7,Unknown,1,bread,0
+84906763,96.5646,4,Shasha Soup,2,beef,yogurt,0
+99942224,31.0236,0,Shasha Soup,1,sesame oil,1
+28521584,20.907,3,Clear Soup,2,peanut oil,tofu,0
+5194792,66.1969,4,Unknown,1,coffee,1
+64937760,94.1924,10,Hot and Numbing Soup,2,cocktail,vinegar,1
+85868403,45.4025,8,Hot and Numbing Soup,1,wine,0
+98731959,53.996,2,Shasha Soup,3,milk,water,salt,1
+56263484,76.5789,8,Pepper and Spicy Soup,1,ice cream,1
+97759021,59.161,8,Clear Soup,3,brandy,egg,tea,0
+51159329,41.2666,4,Pepper and Spicy Soup,3,sesame oil,salt,cookie,1
+25520306,18.3197,3,Tomato Soup,4,tea,corn oil,juice,vodka,0
+80185863,21.9586,0,Shasha Soup,1,cheese,0
+66456992,31.0813,5,Clear Soup,2,soy sauce,onion,0
+84310314,68.9445,10,Hot and Numbing Soup,1,beef,0
+30274408,27.6859,7,Unknown,1,pepper,1
+42310069,15.4721,5,Clear Soup,1,liqueur,1
+74760752,39.7033,7,Hot and Sour Soup,3,olive oil,liqueur,ginger,0
+43194858,75.2245,2,Veggie Soup,1,noodle,1
+84217615,31.1817,5,Tomato Soup,4,cocktail,soy sauce,beer,yogurt,1
+73686872,60.7669,4,Hot and Numbing Soup,2,cake,tequila,0
+18792230,23.2312,9,Clear Soup,1,vinegar,1
+21166056,49.6467,4,Tomato Soup,2,pork,mushroom,1
+2217043,39.614,3,Pepper and Spicy Soup,1,sesame oil,0
+48261360,79.68,8,Pepper and Spicy Soup,2,tofu,ice cream,0
+775723,28.9931,6,Hot and Sour Soup,2,ice cream,tequila,1
+91011411,71.63,9,Tomato Soup,4,rum,tofu,juice,beer,1
+93849631,87.2137,10,Shasha Soup,4,mocktail,rum,corn oil,mocktail,0
+12998033,83.9364,6,Clear Soup,1,pepper,1
+89506426,51.3703,4,Hot and Numbing Soup,4,rum,cocktail,yogurt,tea,1
+19288249,73.0315,10,Hot and Numbing Soup,3,sesame oil,mocktail,corn oil,0
+38922519,27.5311,9,Hot and Numbing Soup,2,sesame oil,vinegar,1
+18232734,11.0051,5,Pepper and Spicy Soup,4,candy,corn oil,whiskey,yogurt,1
+87908784,14.4404,3,Hot and Sour Soup,1,gin,1
+7374674,18.062,7,Tomato Soup,2,vegetable,soda,0
+74499131,78.2835,4,Unknown,3,liqueur,sesame oil,tea,1
+33731152,1.23743,10,Pepper and Spicy Soup,3,sesame oil,cocktail,sugar,0
+82541859,41.3866,0,Tomato Soup,2,garlic,vegetable,0
+5128470,93.8756,5,Pepper and Spicy Soup,4,mocktail,cake,tea,chili,1
+19497786,63.853,0,Pepper and Spicy Soup,1,corn oil,0
+83069266,82.4805,0,Hot and Sour Soup,2,yogurt,brandy,0
+24093844,90.7446,0,Veggie Soup,2,tea,corn oil,0
+66236534,85.0936,8,Shasha Soup,2,chili,vinegar,1
+1363436,90.1431,10,Clear Soup,3,brandy,beef,mocktail,1
+18734061,36.0777,0,Veggie Soup,2,vegetable,tequila,0
+34709700,3.23634,0,Veggie Soup,2,yogurt,egg,0
+70114251,5.19679,9,Veggie Soup,1,candy,0
+74350130,68.4955,5,Clear Soup,4,soy sauce,tea,beer,water,0
+50818673,65.7137,1,Unknown,2,soda,candy,1
+26801393,18.6885,4,Tomato Soup,2,bread,tofu,1
+49024906,99.2469,9,Hot and Numbing Soup,4,sugar,brandy,salt,pepper,1

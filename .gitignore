@@ -1,0 +1,21 @@
+# Build outputs
+system
+system.exe
+system_leak
+system_leak.exe
+*.o
+*.obj
+*.exe
+
+# Editor files
+*.swp
+*~
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS specific
+.DS_Store
+Thumbs.db
