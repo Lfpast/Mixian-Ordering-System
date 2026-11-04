@@ -6,8 +6,6 @@ This is a simple C++ project used to store, query and manage orders for a fictio
 - Binary search tree (`BST`) - for indexing and range queries
 - Hash table (`HashTable`) - for quick lookup by order id
 
-This workspace originally comes from a teaching assignment and has been adapted for public distribution by removing TODO markers and adding documentation.
-
 ## Build
 Requirements: g++ (MinGW or Linux) with C++11 support.
 
